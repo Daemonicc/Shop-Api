@@ -1,0 +1,6 @@
+{
+    "env": {
+        "JWT_KEY": "itsamadman",
+        "SENDGRID_API_KEY": "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"
+    }
+}
